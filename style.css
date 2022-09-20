@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+}
+h1{
+  color: brown;
+}
+li{
+  color: blueviolet;
+  font-size: medium;
+}
+p{
+  color: blue;
+  font-size: medium;
+}
